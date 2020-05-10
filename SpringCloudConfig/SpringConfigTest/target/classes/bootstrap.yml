@@ -18,7 +18,8 @@ spring:
         enabled: true
         service-id: config-server
 
-## 手动刷新配置  POST请求http://127.0.0.1:8763/refresh
+## 自动刷新配置
+
 management:
   security:
     enabled: false
