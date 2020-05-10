@@ -12,7 +12,7 @@ spring:
           uri: https://github.com/smile2sm/springcloud.git/
           username: smile2.sm@qq.com
           password: gan13878533932
-          search-paths: /springcloud/springconfig
+          search-paths: /SpringCloudConfig/springconfig
           default-label: master
 eureka:
   client:
